@@ -1,1 +1,3 @@
-# Civil-Code-of-Procedure-Quebec-for-Self-represented-Litigant
+# Québec Civil Procedure Skill
+
+A plain-language guide for self-represented litigants.
